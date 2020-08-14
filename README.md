@@ -1,3 +1,11 @@
+Second foray into databases.   Well, I finally got partial string searches working.   Woo!   After spending 2 days slamming my head into a wall.   I'm leaving all the commented stuff in there.  Maybe I'll remove it.  Maybe not.  
+
+It might be bad for SQL injection, but I don't care.   I'm just happy that I got it working.  Besides, it's not like I work for google.  I also got the zipcode search working.   So, I'm extremely happy about that.   I'm thinking that next I'll work on getting it to work with a SMTP library, or I might see how much data a cell can hold (I know it's a lot, but exactly how much, I'm not sure).  To put in what they did for the client.
+
+I might get a wild hair up my ass and decide to recode it in tkinter, see if I can't get that up and running.
+
+
+-------------------------------------------------------------------------------------------------------------------
 
 
 My first foray into databases.   
